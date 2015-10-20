@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="LinQnLambdaOne/LinQnLambdaOne.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinQnLambdaTwo/Program.cs">
+    <Files>
+      <File FileName="LinQnLambdaTwo/Program.cs" Line="22" Column="5" />
+      <File FileName="LinQnLambdaOne/Program.cs" Line="56" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
