@@ -15,7 +15,7 @@ namespace LinQnLambdaTwo
 			{
 				Console.WriteLine (x);
 			}
-			var lambdaResult = array.Where (x => x % 7 == 0 && x % 3 == 0);
+			var lambdaResult = array.Where (x => x % 7 == 0 && x % 3 == 0).Select(x=>x);
 			foreach (var y in lambdaResult)
 			{
 				Console.WriteLine (y);

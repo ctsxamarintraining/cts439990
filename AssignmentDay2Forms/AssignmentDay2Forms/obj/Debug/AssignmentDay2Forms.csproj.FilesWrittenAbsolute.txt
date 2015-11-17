@@ -1,0 +1,7 @@
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/bin/Debug/AssignmentDay2Forms.dll.mdb
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/bin/Debug/AssignmentDay2Forms.dll
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/obj/Debug/AssignmentDay2Forms.dll
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/obj/Debug/AssignmentDay2Forms.dll.mdb
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/divyavuppala/Projects/AssignmentDay2Forms/AssignmentDay2Forms/bin/Debug/Xamarin.Forms.Xaml.dll

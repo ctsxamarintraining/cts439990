@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQnLambdaTwo", "LinQnLamb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQnLambdaOne", "LinQnLambdaOne\LinQnLambdaOne.csproj", "{3E7FA95D-EA6B-4B55-803B-DF9C22DBF311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample", "sample\sample.csproj", "{63216663-0284-4066-B6EC-1B35AE221C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{3E7FA95D-EA6B-4B55-803B-DF9C22DBF311}.Debug|x86.Build.0 = Debug|x86
 		{3E7FA95D-EA6B-4B55-803B-DF9C22DBF311}.Release|x86.ActiveCfg = Release|x86
 		{3E7FA95D-EA6B-4B55-803B-DF9C22DBF311}.Release|x86.Build.0 = Release|x86
+		{63216663-0284-4066-B6EC-1B35AE221C80}.Debug|x86.ActiveCfg = Debug|x86
+		{63216663-0284-4066-B6EC-1B35AE221C80}.Debug|x86.Build.0 = Debug|x86
+		{63216663-0284-4066-B6EC-1B35AE221C80}.Release|x86.ActiveCfg = Release|x86
+		{63216663-0284-4066-B6EC-1B35AE221C80}.Release|x86.Build.0 = Release|x86
 		{C6D614C5-4D56-4CDE-AEC1-2604DB5219E5}.Debug|x86.ActiveCfg = Debug|x86
 		{C6D614C5-4D56-4CDE-AEC1-2604DB5219E5}.Debug|x86.Build.0 = Debug|x86
 		{C6D614C5-4D56-4CDE-AEC1-2604DB5219E5}.Release|x86.ActiveCfg = Release|x86

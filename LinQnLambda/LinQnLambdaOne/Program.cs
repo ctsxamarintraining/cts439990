@@ -36,13 +36,13 @@ namespace LinQnLambdaOne
 			Console.WriteLine (" ");
 			Console.WriteLine("Lambda operation results");
 			Console.WriteLine("sorting by firstName---->");
-			var result1 = iList.OrderByDescending (x => x.firstName).Select (x => x);
+			var result1 = iList.OrderByDescending (x => x.firstName);
 			foreach (person x in result1) 
 			{
 				Console.WriteLine ("{0},{1}",x.firstName,x.lastName);
 			}
 			Console.WriteLine("sorting by lastName---->");
-			var result2 = iList.OrderByDescending (x => x.lastName).Select (x => x);
+			var result2 = iList.OrderByDescending (x => x.lastName);
 			foreach (person x in result2) 
 			{
 				Console.WriteLine ("{0},{1}",x.lastName,x.firstName);
